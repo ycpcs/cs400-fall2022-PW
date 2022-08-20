@@ -35,8 +35,12 @@ As your clients, Drs. Druen and Shedlosky will be providing you with all Require
 This project will run for two semesters: Fall 2022 (CS 400) and Spring 2023 (CS 402).
 
 ## News
-* 11-18-21: Moved assign07 (Final Presentation and Demo) to Friday, 12-10-21, from 3:00p to 5:00p in KEC 123.
+<!-- Commenting out News until it's needed - and the dates will change, anyway
 
-* 8-21-21: All students in CS 481 will be meeting on the first day of class (Weds, 8-25-21) to go over the syllabus and requirements for the course.  The Privilege Walk team will be released early, since their regular meeting time is on Fridays.
+-->
 
-* 8-21-21: The Privilege Walk team will meet on a weekly basis for status report, and assignment and Milestone presentations on Fridays in-person in KEC 123.  We will be using Zoom in KEC 123 to allow Dr. Druen to attend the meetings.  Wednesdays will be reserved for team project work days to be arranged amongst yourselves.
+* 8-20-22: The Privilege Walk team will meet on a weekly basis for status report, and assignment and Milestone presentations on Fridays **in-person** in KEC 123.  We will be using Zoom in KEC 123 to allow Dr. Druen to attend the meetings.  Mondays & Wednesdays will be reserved for team project work days to be arranged amongst yourselves.
+
+* 8-12-22: All students in CS 400 will be meeting on the first day of class (Mon, 8-22-22) in KEC 123 to go over the syllabus and requirements for the course.  We will also determine the regular meeting days for the various CS400 teams, and meet again later in the week on those days.  The Radio Telescope and Privilege Walk teams will likely have a longer meeting time this Monday, as those are established projects.
+
+* 8-12-22: Welcome back to Kinsley Engineering Center...  :-)
