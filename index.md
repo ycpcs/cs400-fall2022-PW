@@ -1,12 +1,12 @@
 ---
 layout: default
 course_number: CS400-PW
-title: CS Capstone I
+title: CS Capstone I (Privilege Walk Project)
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS400-PW: Senior Software Design I (Privilege Walk Project)
+## CS400-PW: CS Capstone I (Privilege Walk Project)
 
 ## Fall 2022
 
