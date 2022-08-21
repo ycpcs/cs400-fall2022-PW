@@ -24,7 +24,7 @@ There are three tasks which are part of this assignment.
 
 The first task is to distribute the students among the various major portions of the project: FrontEnd (UX / UI), BackEnd and Database, and Visualization, and designate your team leader(s).  Also, you should create a contact information spreadsheet in your new Google team drive, and establish your means for collaboration.  We will finalize team assignments during the second week of class.  In addition, I will try to honor the requests for those of you who expressed interest in leading a team, as well as the overall project lead.  Again, we will determine this by the second week of class.
 
-Your team should then write a 2-4 page report describing your chosen/assigned task(s).  In order to properly define your team's work, you will need  to arrange meetings and hold conversations with your clients (Drs. Druen and Shedlosky), as well as familiarize yourself with the current state of the project through previous team emmeber, and the Privilege Walk Final Tech Report.
+Your team should then write a 2-4 page report describing your chosen/assigned task(s).  In order to properly define your team's work, you will need  to arrange meetings and hold conversations with your clients (Drs. Druen and Shedlosky), as well as familiarize yourself with the current state of the project through previous team members, and the Privilege Walk Final Tech Report from CS482-Spring2023.
 
 Your team project proposal report should include the following information:
 
