@@ -26,13 +26,16 @@ Here are links to two descriptions of the Privilege Walk exercise:
   - [OpenSource.com Privilege Walk Exercise](https://opensource.com/open-organization/17/11/privilege-walk-exercise)
   - [EIU Privilege Walk Exercise](https://www.eiu.edu/eiu1111/Privilege%20Walk%20Exercise-%20Transfer%20Leadership%20Institute-%20Week%204.pdf)
 
-You will be creating an application that will automate and facilitate the Privilege Walk exercise, allowing for individuals and groups to participate in a synchronous, asynchronous, and/or anonymous fashion.  Here are links to two descriptions and instructions fo the Privilege Walk exeercise.
+This is the second year for the Privilege Walk project, with two faculty members from the York College Psychology program serving as your clients: [Dr. Perri Druen](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/druen-perri.php) and [Dr. Randi Shedlosky](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/shedlosky-shoemaker-randi.php).  You will find their initial project requirements on the [Assign01-Project Proposal page](.\assign\assign01.html).
 
-Your clients for this project will be [Dr. Perri Druen](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/druen-perri.php) and [Dr. Randi Shedlosky](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/shedlosky-shoemaker-randi.php) from the York College Psychology program.
+You will be continuing development of this project, building upon the accomplishments of last year's CS Senior Design I (CS481) and CS Senior Design II (CS482) teams.  You will acquire the information for your project proposal, Use Cases and User Stories, and Requirements from your clients, as well as from the prior team's progress (Final Technical Report from CS482).  Your clients will also establish your tasks and priorities in consultation with me, and with your input, as you plan and develop the sprint schedule for your agile development approach.
 
-As your clients, Drs. Druen and Shedlosky will be providing you with all Requirements for the project, and will also establish the task priorities for your agile development process, in consultation me, and in coordination with the Privilege Walk development team.  They will also be attending your status meetings, and assignment and Milestone presentations.  You willfind their initial project requirements on the [Assign01-Project Proposal page](.\assign\assign01.html).
+This project will likely break into 2-3 teams, across 3-5 people (team members can be on multiple teams):
+- Front End (UI / UX)
+- Backend and Database
+- Data Visualization
 
-This project will run for two semesters: Fall 2022 (CS 400) and Spring 2023 (CS 402).
+It is highly likely that this will be a two-semester project, spanning both CS400 (Fall 2022) and CS402 (Spring 2023).  I highly recommend that you continue working on this project in CS402 in the Spring, as it will provide you with a valuable year-long, comprehensive, client-based, team project experience, and CS402 counts as a CS elective toward your CS major requirements.
 
 ## News
 <!-- Commenting out News until it's needed - and the dates will change, anyway
