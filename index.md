@@ -42,6 +42,10 @@ It is highly likely that this will be a two-semester project, spanning both CS40
 
 -->
 
+* 9-29-22: Mid-Semester Peer Evals are due Saturday, 10-16-22 by Noon, via email in PDF form
+
+* 9-29-22: Assignment 5 (Minimal Working System) is due 11:00am, Friday, 10-14-22, with presentation during class
+
 * 8-27-22: Assignment 4 (Analysis & Design) is due by 11:00am, Friday, 9-23-22, with presentation during class
 
 * 8-27-22: Assignment 3 (Requirements) is due by 11:00am, Friday, 9-16-22, with presentation during class
