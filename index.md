@@ -38,9 +38,19 @@ This project will likely break into 2-3 teams, across 3-5 people (team members c
 It is highly likely that this will be a two-semester project, spanning both CS400 (Fall 2022) and CS402 (Spring 2023).  I highly recommend that you continue working on this project in CS402 in the Spring, as it will provide you with a valuable year-long, comprehensive, client-based, team project experience, and CS402 counts as a CS elective toward your CS major requirements.
 
 ## News
-<!-- Commenting out News until it's needed - and the dates will change, anyway
+<!-- Commenting out News until it's needed - and the dates could change, anyway
+
+* 11-14-22: Assignment 7 (Final Report and Final Peer Evals) are both due by Noon, Sunday, 12-11-22
+
+* 11-14-22: Assignment 7 (Final System Presentation) is from 10:15a to 12:15p, on Wednesday, 12-7-22 in KEC 123, with presentation and demo in class
+
+* 11-14-22: Assignment 7 (Draft Technical Report) is due by Noon, Sunday, 12-4-22, in your Google Team Drive
+
+* 11-14-22: On Friday, 11-18-22, you will be giving your status update to Tyler Franks & David McHugh 
 
 -->
+
+* 10-28-22: Assignment 6 (50% Working System) is at 11:00am, Friday, 11-11-22, with presentation and demo during class
 
 * 10-2-22: Mid-Semester Peer Evals are due Sunday, 10-23-22 by Noon, via email in PDF form
 
